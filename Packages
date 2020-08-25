@@ -13,3 +13,19 @@ MD5sum: 55d88f3f57a8339da0443a7cf753f172
 SHA1sum: 6a72a6c33e8c83588c29cbe7857e898a1f3d1d47
 SHA256sum: e19dadb5e6cfd374ad2cc266eff707910d18bdd6290a85ef8ec997e662a1ce33
 Filename: ./debfiles/cf.seeyouios.modmenugl_0.19.0_iphoneos-arm.deb
+
+Package: cf.seeyouios.modmenuvng
+Name: ModMenu 0.19 VNG 🇻🇳
+Depends: mobilesubstrate
+Size: 340378
+Architecture: iphoneos-arm
+Description: ModMenu 0.19.0 VietNam🇻🇳 SeeYouIOS
+Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
+Author: SeeYouIOS <rashidfarhad122@gmail.com>
+Section: Games
+Version: 0.19.0
+Installed-Size: 592
+MD5sum: 9a0ac1146a05271723db81aeb5cceec6 
+SHA1sum: a8819b419c7cb14e142b8a165283db22515b8601
+SHA256sum: b25ecf8a830663ef720d111585efc1b82774f95d05a99cc020fe32f328f14ce3
+Filename: ./debfiles/cf.seeyouios.modmenuvng_0.19.0_iphoneos-arm.deb
