@@ -1,0 +1,15 @@
+Package: cf.seeyouios.modmenugl
+Name: SeeyouIOS ModMenu 0.19 GLOBAL 🌍
+Depends: mobilesubstrate
+Size: 11008526
+Architecture: iphoneos-arm
+Description: Modmenu By SeeYouIOS
+Maintainer: SeeYouI0S <rashidfarhad122@gmail.com>
+Author: SeeYouI0S <rashidfarhad122@gmail.com>
+Section: Games
+Version: 0.19.0
+Installed-Size: 14656
+MD5sum: cc4cd40e331a620f4ae9e62ed7a9ab3f 
+SHA1sum: 09ffc4ce54ce3af39472938fcec917c556b7fdd0
+SHA256sum: 371d066fc35936c68b289ba92e2ba00b0f9a4e11d81b3a77de28b834761a2f97
+Filename: ./debfiles/cf.seeyouios.modmenugl_0.19.0_iphoneos-arm.deb
