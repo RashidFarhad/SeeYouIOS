@@ -1,0 +1,10 @@
+Package: cf.seeyouios.repoicon
+Version: 1.0
+Section: Repositories
+Essential: yes
+Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
+Architecture: iphoneos-arm
+Description: Officials SeeYouIOS Repo Icons
+Name: SYS Repo Icons
+Author: SeeYouIOS (SYS) <rashidfarhad122@gmail.com>
+Depiction: https://seeyouios.cf
