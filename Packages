@@ -65,3 +65,20 @@ MD5sum: fb00d4265d8df1f30a70257817fa2b0e
 SHA1sum: 94b40560d87521ab55831c442dbc22ce2293e272
 SHA256sum: 489f68b4f7ba0ae895849a0a720885d29c643aee03bfbe1cbe24492a2515896d
 Filename: ./debfiles/cf.seeyouios.modmenukr_0.19.0_iphoneos-arm.deb
+
+Package: cf.seeyouios.repoicon
+Name: (SYS) Repo Icon 🔥
+Depends: mobilesubstrate
+Size: 205234
+Architecture: iphoneos-arm
+Description: Official Repo icons SeeYouIOS
+Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
+Depiction: https://seeyouios.cf
+Author: SeeYouIOS <rashidfarhad122@gmail.com>
+Section: Repositories
+Version: 1.0
+Installed-Size: 592
+MD5sum: 419a49da5fb118d8e8b5ce1d77cdaa09 
+SHA1sum: fa9f27324ad4bcee80f4db08188dd04d2083057b
+SHA256sum: f76aeddf342067c7d6bdcc87ab38e29c6af17daf781e77f0c9c946888fe8a931
+Filename: ./debfiles/cf.seeyouios.repoicon_1.0_iphoneos-arm.deb
