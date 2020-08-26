@@ -7,7 +7,7 @@ Description: Best Jailbreak Detection ! 🇮🇱
 Maintainer: SeeYouI0S <rashidfarhad122@gmail.com>
 Author: SeeYouI0S <rashidfarhad122@gmail.com>
 Depiction: https://seeyouios.cf
-Section: Tweaks
+Section: (SYS)Tweaks
 Version: 1.3.2
 Installed-Size: 14656
 MD5sum: 1015678e6e7fed95e141a2faf31f1aeb 
@@ -67,9 +67,9 @@ SHA256sum: 489f68b4f7ba0ae895849a0a720885d29c643aee03bfbe1cbe24492a2515896d
 Filename: ./debfiles/cf.seeyouios.modmenukr_0.19.0_iphoneos-arm.deb
 
 Package: cf.seeyouios.repoicon
-Name: (SYS) Repo Icon 🔥
+Name: (SYS) Repo Icon
 Depends: mobilesubstrate
-Size: 205234
+Size: 637472
 Architecture: iphoneos-arm
 Description: Official Repo icons SeeYouIOS
 Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
@@ -78,7 +78,7 @@ Author: SeeYouIOS <rashidfarhad122@gmail.com>
 Section: Repositories
 Version: 1.0
 Installed-Size: 592
-MD5sum: 419a49da5fb118d8e8b5ce1d77cdaa09 
-SHA1sum: fa9f27324ad4bcee80f4db08188dd04d2083057b
-SHA256sum: f76aeddf342067c7d6bdcc87ab38e29c6af17daf781e77f0c9c946888fe8a931
+MD5sum: d6311a90683f1c6b17ef5bd201c69af0 
+SHA1sum: 5cd4c4d8844eee2ac8e00b1601d3201a0faf2afc
+SHA256sum: 87887d984857d69ff9813dff6cdc8b295a74ca0768f6f4a0530a0dcc2bd1dedb
 Filename: ./debfiles/cf.seeyouios.repoicon_1.0_iphoneos-arm.deb
