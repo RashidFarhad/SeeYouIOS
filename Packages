@@ -22,17 +22,17 @@ Package: cf.seeyouios.flex3
 Depends: firmware (>= 10.0), 
 Size: 20615276
 mobilesubstrate (>= 0.9.5000), preferenceloader, applist
-Section: (SYS)Tweaks
+Section:(SYS)Tweaks
 Installed-Size: 784
 Version: 3~EarlyAccess4
 Architecture: iphoneos-arm
-Description: Advanced Tweak Configuration!
+Description: Flex 3 Crack Your Favorite!
 Depiction: https://SeeYouIOS.cf
 dev: RashidFarhad🇮🇱
 MD5sum: 9c5acf926f1c27c173cdb8b8e346b92f
 SHA1sum: bf14d7fc4970d96db2a80e736b0c98dd1776fd7c
 SHA256: ff300e1308e7c2fa4d1059e4673d9ae4f35001fb59896f593775d53caca57ac4
-Filename: cf.seeyouios.flex3_3~EarlyAccess4_iphoneos-arm.deb
+Filename: ./debfiles/cf.seeyouios.flex3_3~EarlyAccess4_iphoneos-arm.deb
 
 Author: SeeYouIOS <rashidfarhad122@gmail.com>
 Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
@@ -51,7 +51,7 @@ dev: RashidFarhad🇮🇱
 MD5sum: 3e2c6346ef699b9cff8f912255972ed9
 SHA1sum: 90216c2c98900ef01d5490ecb3855478faf2dad7
 SHA256: d9602ce04e79782e8d7dd0b19256ab0b35fdfc84a2fdbd14ebead536230f8ccc
-Filename: cf.seeyouios.choicy_1.2.4-2_iphoneos-arm.deb
+Filename: ./debfiles/cf.seeyouios.choicy_1.2.4-2_iphoneos-arm.deb
 
 Package: cf.seeyouios.kernbypass7
 Name: KernBypass7
@@ -138,21 +138,21 @@ SHA1sum: 94b40560d87521ab55831c442dbc22ce2293e272
 SHA256sum: 489f68b4f7ba0ae895849a0a720885d29c643aee03bfbe1cbe24492a2515896d
 Filename: ./debfiles/cf.seeyouios.modmenukr_0.19.0_iphoneos-arm.deb
 
-Package: com.seeyouios.iconrepo
+Package: cf.seeyouios.iconrepo
 Essential: yes
-Section: (SYS)
-Size: 53926
+Section: (SYS)RepoICON
+Size: 61328
 Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
 Architecture: iphoneos-arm
-Version: 8.0.4
+Version: 1.4
 Description: Repo Icons For SeeYouIOS 💙
 Name: (SYS) Repo icons
 Author: RashidFarhad🇮🇱 <Rashidfarhad122@gmail.com>
 Depiction: https://seeyouios.cf
-MD5sum: 93f00c5408833d5d6b684c9d541538f4 
-SHA1sum: 69213b5f774e64f28fdb065c1097544ff4f3b732
-SHA256sum: d125fbbaacb4c81897478ac736fb431e981a12de64e5d8ccac07c9f690d70580
-Filename: ./debfiles/com.seeyouios.iconrepo_8.0.4_iphoneos-arm.deb
+MD5sum: b87ec08f58d98d19d552b03630290318 
+SHA1sum: ea36380c871bbf546fe996a26332e376499adbeb
+SHA256sum: 2a78a5f6e42f346e76a337797dee09eaebd8cd94f9d5e5f786def39566c94270
+Filename: ./debfiles/cf.seeyouios.iconrepo_1.4_iphoneos-arm.deb
 
 Package: cf.seeyouios.newterm2
 Name: NewTerm (iOS 10 – 13)
@@ -214,4 +214,4 @@ dev:RashidFarhad
 MD5sum: 7a669b2b2b589d3b4b87b06510873afe
 SHA1sum: 314e86c226bdf67b5927f43d77ea33f3e3026a22
 SHA256sum: 5fd6a0ce40a2eeda8ac8c5cffe74a5121a90e78ae34e8c562e7823577bc4d7e2
-Filename: cf.seeyouios.filza_3.7.7-15_iphoneos-arm.deb
+Filename: ./debfiles/cf.seeyouios.filza_3.7.7-15_iphoneos-arm.deb
