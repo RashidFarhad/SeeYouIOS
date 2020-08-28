@@ -32,6 +32,23 @@ SHA1sum: f3a82970b70c98bbda37669786db6dc1bd3b7201
 SHA256sum: 54588e783e88b1f5936b4f1f092fcd0b62780e0479c87fbf57bd2faf26d17ed2
 Filename: ./debfiles/cf.seeyouios.cheto_2126-c0cd6e9a-GLOBAL-13_iphoneos-arm.deb
 
+Package: cf.seeyouios.dlgmemor
+Name:  DLGMemor Injected
+Depends: mobilesubstrate
+Size: 264240
+Architecture: iphoneos-arm
+Description: DLGMemor Injected Best Cracker Tweak !
+Maintainer: SeeYouI0S <rashidfarhad122@gmail.com>
+Author: RashidFarhad <rashidfarhad122@gmail.com>
+Depiction: https://seeyouios.cf
+Section: (S)Tweaks
+Version: 2126
+Installed-Size: 14656
+MD5sum: dcba144fcc553e98036bf8b0481fd462 
+SHA1sum: 9c7875a89df9da87d378e49ad5c6288ead9b9b99
+SHA256sum: 07e12629bd15b736db63492007f12ab8c86f2122f365a06ba2f0690e3913057b
+Filename: ./debfiles/dlg.deb
+
 Package: cf.seeyouios.istec
 Name:  ISTEC
 Depends: mobilesubstrate
