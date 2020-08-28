@@ -15,6 +15,78 @@ SHA1sum: 0207340b53f515e7a126ab3a93926b06e344f1bf
 SHA256sum: ccdde45b599f2cd13cae1b38a8d0e524eb3a5faacaa3ce2334b0418f78cfe809
 Filename: ./debfiles/cf.seeyouios.a-bypass_1.3.2_iphoneos-arm.deb
 
+Author: SeeYouIOS <rashidfarhad122@gmail.com>
+Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
+Name: Flex 3
+Package: cf.seeyouios.flex3
+Depends: firmware (>= 10.0), 
+Size: 20615276
+mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Section: (SYS)Tweaks
+Installed-Size: 784
+Version: 3~EarlyAccess4
+Architecture: iphoneos-arm
+Description: Advanced Tweak Configuration!
+Depiction: https://SeeYouIOS.cf
+dev: RashidFarhad🇮🇱
+MD5sum: 9c5acf926f1c27c173cdb8b8e346b92f
+SHA1sum: bf14d7fc4970d96db2a80e736b0c98dd1776fd7c
+SHA256: ff300e1308e7c2fa4d1059e4673d9ae4f35001fb59896f593775d53caca57ac4
+Filename: cf.seeyouios.flex3_3~EarlyAccess4_iphoneos-arm.deb
+
+Author: SeeYouIOS <rashidfarhad122@gmail.com>
+Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
+Name: Choicy
+Package: cf.seeyouios.choicy
+Depends: firmware (>= 10.0), 
+Size: 162928
+mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Section: (SYS)Tweaks
+Installed-Size: 784
+Version: 1.2.4-2
+Architecture: iphoneos-arm
+Description: Advanced Tweak Configuration!
+Depiction: https://SeeYouIOS.cf
+dev: RashidFarhad🇮🇱
+MD5sum: 3e2c6346ef699b9cff8f912255972ed9
+SHA1sum: 90216c2c98900ef01d5490ecb3855478faf2dad7
+SHA256: d9602ce04e79782e8d7dd0b19256ab0b35fdfc84a2fdbd14ebead536230f8ccc
+Filename: cf.seeyouios.choicy_1.2.4-2_iphoneos-arm.deb
+
+Package: cf.seeyouios.kernbypass7
+Name: KernBypass7
+Depends: mobilesubstrate
+Size: 49278
+Architecture: iphoneos-arm
+Description: Jailbreak Detection Fix For ios 13.5
+Maintainer: SeeYouI0S <rashidfarhad122@gmail.com>
+Author: SeeYouI0S <rashidfarhad122@gmail.com>
+Depiction: https://seeyouios.cf
+Section: (SYS)Tweaks
+Version: 0.0.7-2
+Installed-Size: 14656
+MD5sum: eff6e9fda7027f933b247c9c00150305 
+SHA1sum: 8cc20bd97ce8794e0f2d97e328050bd505ef231c
+SHA256sum: 24bb7dc7c5e7227f0b287bfc276f970965d7d3c4bea95107835f746ba281d0d2
+Filename: ./debfiles/cf.seeyouios.kernbypass7_0.0.7-2_iphoneos-arm.deb
+
+Package: cf.seeyouios.kernbypass
+Name: KernBypass3
+Depends: mobilesubstrate
+Size: 30114
+Architecture: iphoneos-arm
+Description: Jailbreak Detection Best In Now! For Activation Type in newTerm 1-su 2-alpine 3-changerootfs & 4- disown %1
+Maintainer: SeeYouI0S <rashidfarhad122@gmail.com>
+Author: SeeYouI0S <rashidfarhad122@gmail.com>
+Depiction: https://seeyouios.cf
+Section: (SYS)Tweaks
+Version: 0.0.3
+Installed-Size: 14656
+MD5sum: b1e1f492e4e793808c59924f4d88b908 
+SHA1sum: 977399304de353c24989c58ebf5a23e4586faf69
+SHA256sum: 8bb29dc60c884d129f60b97271489aedf1407eec389a975130c9ea8629e2f879
+Filename: ./debfiles/cf.seeyouios.kernbypass_0.0.3_iphoneos-arm.deb
+
 Package: cf.seeyouios.modmenugl
 Name: ModMenu 0.19 GL 🌍
 Depends: mobilesubstrate
@@ -89,11 +161,10 @@ Size: 3201766
 Conflicts: ws.hbang.newterm, com.lint.ntarrows
 Replaces: ws.hbang.newterm, com.lint.ntarrows
 Architecture: iphoneos-arm
-Description: A powerful terminal app for iOS
+Description: Best Term in Now For Cydia !✨
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Author: HASHBANG Productions <support@hbang.ws>
-Section: Terminal Support
-Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Section: (SYS)NewTerm
 Depiction: https://repo.chariz.com/package/ws.hbang.newterm2/
 Support: https://hashbang.productions/support/
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
@@ -111,7 +182,7 @@ Maintainer: RashidFarhad <rashidfarhad122@gmail.com>
 Name: GameGem
 Package: cf.seeyouios.gamegem
 Depends: firmware (>= 8.0)
-Section: Tweaks
+Section: (SYS)Tweaks
 Size: 3999034 
 Installed-Size: 10613
 Version: 1.5
@@ -124,3 +195,23 @@ MD5sum: 7cd18ca6c64e28a42d332a4408736ee7
 SHA1sum: c8ff964c46fcad6addbbfdb400e5e634ad4b9ab2
 SHA256sum: 82099bca2408673453326234b214be11606987adba4f1e6ff6a144b724f45b33
 Filename: ./debfiles/cf.seeyouios.gamegem_1.5_iphoneos-arm.deb
+
+Name: Filza File Manager
+Package: com.tigisoftware.filza
+Size: 13340136
+Priority: optional
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Version: 3.7.7-15
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Depiction: https://SeeYouIOS.cf
+Maintainer: RashidFarhad <rashidfarhad122@gmail.com>
+Author: SeeYouIOS <rashidfarhad122@gmail.com>
+Section: (SYS)Utilities
+Installed-Size: 29712
+dev:RashidFarhad
+MD5sum: 7a669b2b2b589d3b4b87b06510873afe
+SHA1sum: 314e86c226bdf67b5927f43d77ea33f3e3026a22
+SHA256sum: 5fd6a0ce40a2eeda8ac8c5cffe74a5121a90e78ae34e8c562e7823577bc4d7e2
+Filename: cf.seeyouios.filza_3.7.7-15_iphoneos-arm.deb
