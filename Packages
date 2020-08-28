@@ -7,7 +7,7 @@ Description: Best Jailbreak Detection ! 🇮🇱
 Maintainer: SeeYouI0S <rashidfarhad122@gmail.com>
 Author: SeeYouI0S <rashidfarhad122@gmail.com>
 Depiction: https://seeyouios.cf
-Section: (SYS)Tweaks
+Section: (S)Tweaks
 Version: 1.3.2
 Installed-Size: 14656
 MD5sum: 1015678e6e7fed95e141a2faf31f1aeb 
@@ -18,7 +18,7 @@ Filename: ./debfiles/cf.seeyouios.a-bypass_1.3.2_iphoneos-arm.deb
 Author: SeeYouIOS <rashidfarhad122@gmail.com>
 Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
 Name: Flex 3
-Section: (SYS)Tweaks
+Section: (S)Tweaks
 Package: cf.seeyouios.flex3
 Depends: firmware (>= 10.0), 
 Size: 20615276
@@ -39,7 +39,7 @@ Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
 Name: Choicy
 Package: cf.seeyouios.choicy
 Depends: firmware (>= 10.0), 
-Section: (SYS)Tweaks
+Section: (S)Tweaks
 Size: 162928
 mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Installed-Size: 784
@@ -62,7 +62,7 @@ Description: Jailbreak Detection Fix For ios 13.5
 Maintainer: SeeYouI0S <rashidfarhad122@gmail.com>
 Author: SeeYouI0S <rashidfarhad122@gmail.com>
 Depiction: https://seeyouios.cf
-Section: (SYS)Tweaks
+Section: (S)Tweaks
 Version: 0.0.7-2
 Installed-Size: 14656
 MD5sum: eff6e9fda7027f933b247c9c00150305 
@@ -79,7 +79,7 @@ Description: Jailbreak Detection Best In Now! For Activation Type in newTerm 1-s
 Maintainer: SeeYouI0S <rashidfarhad122@gmail.com>
 Author: SeeYouI0S <rashidfarhad122@gmail.com>
 Depiction: https://seeyouios.cf
-Section: (SYS)Tweaks
+Section: (S)Tweaks
 Version: 0.0.3
 Installed-Size: 14656
 MD5sum: b1e1f492e4e793808c59924f4d88b908 
@@ -96,7 +96,7 @@ Description: ModMenu 0.19.0 GLOBAL 🌍 SeeYouIOS
 Maintainer: SeeYouI0S <rashidfarhad122@gmail.com>
 Depiction: https://seeyouios.cf
 Author: SeeYouI0S <rashidfarhad122@gmail.com>
-Section: (SYS)Games
+Section: (S)Games
 Version: 0.19.0
 Installed-Size: 14656
 MD5sum: 55d88f3f57a8339da0443a7cf753f172 
@@ -130,7 +130,7 @@ Description: ModMenu 0.19.0 Korea🇯🇵 SeeYouIOS
 Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
 Depiction: https://seeyouios.cf
 Author: SeeYouIOS <rashidfarhad122@gmail.com>
-Section: (SYS)Games
+Section: (S)Games
 Version: 0.19.0
 Installed-Size: 592
 MD5sum: fb00d4265d8df1f30a70257817fa2b0e 
@@ -140,7 +140,7 @@ Filename: ./debfiles/cf.seeyouios.modmenukr_0.19.0_iphoneos-arm.deb
 
 Package: cf.seeyouios.iconrepo
 Essential: yes
-Section: (SYS)RepoICON
+Section: (S)RepoICON
 Size: 61328
 Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
 Architecture: iphoneos-arm
@@ -149,9 +149,9 @@ Description: Repo Icons For SeeYouIOS 💙
 Name: (SYS) Repo icons
 Author: RashidFarhad🇮🇱 <Rashidfarhad122@gmail.com>
 Depiction: https://seeyouios.cf
-MD5sum: b87ec08f58d98d19d552b03630290318 
-SHA1sum: ea36380c871bbf546fe996a26332e376499adbeb
-SHA256sum: 2a78a5f6e42f346e76a337797dee09eaebd8cd94f9d5e5f786def39566c94270
+MD5sum: 9e2d5eb3ecbc2d9f820568a7a65d57d2 
+SHA1sum: ffd9e332568ac570de80c7292fb398995bec1741
+SHA256sum: cee29df56e78b74169ee28085d6052a911f795357b0c64821e3b834f23c521da
 Filename: ./debfiles/cf.seeyouios.iconrepo_1.4_iphoneos-arm.deb
 
 Package: cf.seeyouios.newterm2
@@ -164,7 +164,7 @@ Architecture: iphoneos-arm
 Description: Best Term in Now For Cydia !✨
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Author: HASHBANG Productions <support@hbang.ws>
-Section: (SYS)NewTerm
+Section: (S)NewTerm
 Depiction: https://repo.chariz.com/package/ws.hbang.newterm2/
 Support: https://hashbang.productions/support/
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
@@ -182,7 +182,7 @@ Maintainer: RashidFarhad <rashidfarhad122@gmail.com>
 Name: GameGem
 Package: cf.seeyouios.gamegem
 Depends: firmware (>= 8.0)
-Section: (SYS)Tweaks
+Section: (S)Tweaks
 Size: 3999034 
 Installed-Size: 10613
 Version: 1.5
@@ -208,7 +208,7 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Depiction: https://SeeYouIOS.cf
 Maintainer: RashidFarhad <rashidfarhad122@gmail.com>
 Author: SeeYouIOS <rashidfarhad122@gmail.com>
-Section: (SYS)Utilities
+Section: (S)Utilities
 Installed-Size: 29712
 dev:RashidFarhad
 MD5sum: 7a669b2b2b589d3b4b87b06510873afe
