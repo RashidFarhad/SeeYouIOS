@@ -18,11 +18,11 @@ Filename: ./debfiles/cf.seeyouios.a-bypass_1.3.2_iphoneos-arm.deb
 Author: SeeYouIOS <rashidfarhad122@gmail.com>
 Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
 Name: Flex 3
+Section: (SYS)Tweaks
 Package: cf.seeyouios.flex3
 Depends: firmware (>= 10.0), 
 Size: 20615276
 mobilesubstrate (>= 0.9.5000), preferenceloader, applist
-Section:(SYS)Tweaks
 Installed-Size: 784
 Version: 3~EarlyAccess4
 Architecture: iphoneos-arm
@@ -39,9 +39,9 @@ Maintainer: SeeYouIOS <rashidfarhad122@gmail.com>
 Name: Choicy
 Package: cf.seeyouios.choicy
 Depends: firmware (>= 10.0), 
+Section: (SYS)Tweaks
 Size: 162928
 mobilesubstrate (>= 0.9.5000), preferenceloader, applist
-Section: (SYS)Tweaks
 Installed-Size: 784
 Version: 1.2.4-2
 Architecture: iphoneos-arm
@@ -197,7 +197,7 @@ SHA256sum: 82099bca2408673453326234b214be11606987adba4f1e6ff6a144b724f45b33
 Filename: ./debfiles/cf.seeyouios.gamegem_1.5_iphoneos-arm.deb
 
 Name: Filza File Manager
-Package: com.tigisoftware.filza
+Package: cf.seeyouios.filza
 Size: 13340136
 Priority: optional
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
