@@ -88,12 +88,11 @@ Depends: mobilesubstrate
 Size: 3201766
 Architecture: iphoneos-arm
 Description: A Powerfull And New Terminal 🔥
-Maintainer: HASHBANG Productions <rashidfarhad122@gmail.com>
+Maintainer: HASHBANG Productions
 Depiction: https://seeyouios.cf
-Author: HASHBANG Productions <rashidfarhad122@gmail.com>
+Author: HASHBANG Productions
 Section: (SYS)NewTerm
 Version: 2.4
-Installed-Size: 592
 MD5sum: ae9fa02574e9baed91cbbfc304b44858 
 SHA1sum: 23dbbaf770e18bf5dc83a0d4c9210712ae645e53
 SHA256sum: 8027c6b4ca68bf0c671ec50f508e7e9653909a76abaf1cbd2b8a6f3cac0da06c
